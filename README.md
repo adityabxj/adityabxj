@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Aditya Tiwari</h1>
-<h3 align="center">I IT undergrad in Shri Shankaracharya Technical Campus and a Developer from India,</h3>
+<h3 align="center">I am an IT undergrad student in Shri Shankaracharya Technical Campus and a Developer from India,</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/36/70/08/367008ce7dca42f913990643a85adb69.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabxj&label=Profile%20views&color=0e75b6&style=flat" alt="adityabxj" /> </p>
 
