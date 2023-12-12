@@ -1,10 +1,17 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Aditya Tiwari</h1>
-<h3 align="center">I am an IT undergrad student in Shri Shankaracharya Technical Campus and a Developer from India,</h3>
+<h3 align="center">I am a 2023 Graduate Looking for Opportunities,having proficiency in:
+Languages- C++, Python
+Technologies- HTML5, CSS3, Git/GitHub, Django.
+Database- MySQL
+Familiar with- Java, JavaScript
+Operating system- Linux, Windows
+Achievements- 5 star in C++ on Hacker Rank, 65th rank in my institute as per GFG in problem solving.
+</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/36/70/08/367008ce7dca42f913990643a85adb69.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabxj&label=Profile%20views&color=0e75b6&style=flat" alt="adityabxj" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **adityabxj@gmail.com**
 
