@@ -1,12 +1,12 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Aditya Tiwari</h1>
 <h3 align="center">I am a 2023 Graduate Looking for Opportunities,having proficiency in:
-<h4>Languages- C++, Python</h4>
-<h4>Technologies- HTML5, CSS3, Git/GitHub, Django.</h4>
-<h4>Database- MySQL</h3>
-<h4>Familiar with- Java, JavaScript</h4>
-<h4>Operating system- Linux, Windows</h4>
-<h4>Achievements- 5 star in C++ on Hacker Rank, 65th rank in my institute as per GFG in problem solving.</h4>
+<h4 align="center">Languages- C++, Python</h4>
+<h4 align="center">Technologies- HTML5, CSS3, Git/GitHub, Django.</h4>
+<h4 align="center">Database- MySQL</h3>
+<h4 align="center">Familiar with- Java, JavaScript</h4>
+<h4 align="center">Operating system- Linux, Windows</h4>
+<h4 align="center">Achievements- 5 star in C++ on Hacker Rank, 65th rank in my institute as per GFG in problem solving.</h4>
 </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/36/70/08/367008ce7dca42f913990643a85adb69.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabxj&label=Profile%20views&color=0e75b6&style=flat" alt="adityabxj" /> </p>
