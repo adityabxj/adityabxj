@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Aditya Tiwari</h1>
-<h3 align="center">I am a 2023 Graduate Looking for Opportunities,having proficiency in:
+<h3 align="center">I am a 2023 Graduate Looking for Opportunities
 <!-- <h4 align="center">Languages- C++, Python</h4>
 <h4 align="center">Technologies- HTML5, CSS3, Git/GitHub, Django.</h4>
 <h4 align="center">Database- MySQL</h3>
