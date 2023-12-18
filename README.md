@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/36/70/08/367008ce7dca42f913990643a85adb69.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabxj&label=Profile%20views&color=0e75b6&style=flat" alt="adityabxj" /> </p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, Manual testing and C#**
 
 - 📫 How to reach me **adityabxj@gmail.com**
 
