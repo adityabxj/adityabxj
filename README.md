@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Java, Manual testing and C#**
 
-- 📫 How to reach me **adityabxj@gmail.com**
+- 📫 How to reach me **work.adityabxj@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
