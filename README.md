@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Aditya Tiwari</h1>
-<h3 align="center">I am a 2023 Graduate Looking for Opportunities
+<h3 align="center">I am a Full Stack Developer
 <!-- <h4 align="center">Languages- C++, Python</h4>
 <h4 align="center">Technologies- HTML5, CSS3, Git/GitHub, Django.</h4>
 <h4 align="center">Database- MySQL</h3>
@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/736x/36/70/08/367008ce7dca42f913990643a85adb69.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabxj&label=Profile%20views&color=0e75b6&style=flat" alt="adityabxj" /> </p>
 
-- 🌱 I’m currently learning **Java, Python, ReactJs**
+- 🌱 I’m currently learning **AI**
 
 - 📫 How to reach me **work.adityabxj@gmail.com**
 
